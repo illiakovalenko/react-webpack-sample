@@ -1,0 +1,2 @@
+/*! For license information please see main.js.LICENSE.txt */
+var TestLibrary;(()=>{"use strict";var __webpack_modules__={"./src/mylib.ts":(__unused_webpack_module,exports)=>{eval('\nObject.defineProperty(exports, "__esModule", ({ value: true }));\nexports.ikiLib = void 0;\nexports.ikiLib = true;\n\n\n//# sourceURL=webpack://TestLibrary/./src/mylib.ts?')}},__webpack_exports__={};__webpack_modules__["./src/mylib.ts"](0,__webpack_exports__),TestLibrary=__webpack_exports__})();
